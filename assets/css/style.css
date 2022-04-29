@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* header */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -49,7 +49,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* block one */
 .hero {
     height: 800px;
     width: 100%;
@@ -58,23 +58,24 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* block two - left */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* block two - right */
 .float-right {
     float: right;
     margin-left: 25px;
 }
-
+/* block two - left info */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
+/* block two - right info */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -187,6 +188,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* footer  */
 
 .footer {
     padding: 30px;
